@@ -1,6 +1,7 @@
 {
     "name": "jingyifeng/think-backup",
-    "description": "the database backup restore",    
+    "description": "the database backup restore",
+    "keywords": ["think-backup","think-database","database-backup","backup"],
     "license": "MIT",
     "authors": [
         {
