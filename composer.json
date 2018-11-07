@@ -1,0 +1,19 @@
+{
+    "name": "yifeng/think-backup",
+    "description": "the database backup restore",    
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yifeng",
+            "email": "576617109@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "think\\": "src/"
+        }
+    }
+}
